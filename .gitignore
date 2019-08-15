@@ -1,0 +1,7 @@
+# pycharm
+.idea
+
+# npm
+node_modules
+lib
+

@@ -1,0 +1,29 @@
+{
+  "name": "click-aware-box",
+  "version": "1.0.0",
+  "description": "Use ClickAwareBox to wrap elements on which you want to get callback when the user clicks in or out",
+  "main": "./lib/ClickAwareBox.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Yochai Blumenfeld",
+  "license": "ISC",
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
